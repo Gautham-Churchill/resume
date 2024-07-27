@@ -1,0 +1,28 @@
+#avatar{
+    border-radius:50%;
+    border: 2px solid #eee;
+    margin-top:-50px;
+    width: 300px;
+}
+
+.reveal li{
+    margin-top:15px;
+    font-size:85%;
+}
+
+.progress-bar {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 30px;
+    position:relative;
+}
+
+.progress {
+    height: 100%;
+    border-radius: 30px;
+    background: linear-gradient(to right, #ffbf00 0%, #ff007f 100%);
+    width: 100%;
+    position:relative;
+}
